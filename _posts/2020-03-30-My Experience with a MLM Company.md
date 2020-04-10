@@ -8,18 +8,20 @@ I’m sure some of you may be wondering, what’s MLM? I’ll delve into that la
 It’s my Semester Break now, and I decided to look for a part-time job. I downloaded the Jobs DB app, and I came across this advert posted on GumTree.
 
 <p>
-  <img height="750" align="middle" src="{{ site.url }}/assets/30032020/image1.png">
+  <img height="650" src="{{ site.url }}/assets/30032020/image1.png">
 </p>
 
 <p>
-  <img height="750" align="middle" src="{{ site.url }}/assets/30032020/image2.jpg">
+  <img height="650" src="{{ site.url }}/assets/30032020/image2.jpg">
 </p>
 
 I thought to myself, “Oh, it looks like a typical admin job and the hours are quite flexible. The pay is quite high, not bad”.
 
 Thus, I texted the Tyler person with the number posted on the advert. We agreed that I would go down to his office near Bendemeer/Lavender for an interview.
 
-![image 3]({{ site.url }}/assets/30032020/image3.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image3.jpg">
+</p>
 
 When I saw that the interview might take 1 to 1.5h, I was dumbfounded. However, I didn’t think much of it.
 Then came Friday. I reached the place at 12.45 pm, and Tyler told me to contact Michelle, his manager. I did so, and Michelle told me to take a seat at the nearby coffee shop as I was too early. I was already feeling very sceptical, and I thought that maybe this was some elaborate prank.
@@ -34,7 +36,9 @@ Nonetheless, I still went up as I thought that maybe this was a proper job inter
 
 I was greeted by a man dressed neatly in a suit. Of course, his name was Evan. Evan started by showing me two certificates that was neatly framed on the wall. One of the certificates showed that the company had received a Singapore SME 500 award.
 
-![image 4]({{ site.url }}/assets/30032020/image4.png)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image4.png">
+</p>
 
 These were the 2 certificates. I found it displayed on their website and took a screenshot.
 
@@ -46,7 +50,9 @@ I was pretty amused, and I knew something was up. Just how many mangers were the
 
 Evan excused himself after 5 minutes to check if Jia Hui was coming. I quickly googled the company, and I saw “B** G**** MLM” in the autocomplete search results. At that moment, I knew that I had just wasted my time coming here.
 
-![image 5]({{ site.url }}/assets/30032020/image5.png)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image5.png">
+</p>
 
 I have a terrible impression of Multi-Level Marketing (MLM) companies. I have the perception that they are dishonest companies with appalling ethics.
 
@@ -58,7 +64,9 @@ Eventually, Jia Hui came. She was a poly graduate that started working full time
 
 She started sharing animatedly about their organisational structure. While doing so, she was scribbling away on a piece of paper.
 
-![image 6]({{ site.url }}/assets/30032020/image6.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image6.jpg">
+</p>
 
 I secretly took a picture after Jia Hui left us alone for a while.
 The general gist was that you would be paired with a “senior”. The commission made from a successful sale would then be split between the two of you. You will be promoted to the next level when you close a specified number of sales. As you progress, naturally your commission percentage would become higher too.
@@ -69,7 +77,9 @@ Halfway through the “interview”, Jia Hui paused to ask how Kim and I felt. W
 
 She waited and expected a response from both of us. Kim said that she was scared she couldn’t close sales. When it came to my turn, I told her that I felt very apprehensive about this whole thing. I told her that I suspected this to be an MLM scheme.
 
-![image 7]({{ site.url }}/assets/30032020/image7.png)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image7.png">
+</p>
 
 Jia Hui said yes that their company employs an MLM system. However, she was quick to emphasise that what they are doing is legal. She told me that there are three types of MLM schemes:
 
@@ -81,11 +91,15 @@ She said that their company employs a direct selling approach and that it is per
 
 Here is an article for your perusal if you want to know more Pyramid and Ponzi schemes.
 
-![image 8]({{ site.url }}/assets/30032020/image8.png)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image8.png">
+</p>
 
 > Part of the FAQs listed on B** G****’s website.
 
-![image 9]({{ site.url }}/assets/30032020/image9.png)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image9.png">
+</p>
 
 > This picture is linked to the website, click [here](https://dsas.org.sg/ "Direct Selling Association of Singapore") if you want to explore it too.
 
@@ -101,7 +115,9 @@ Jia Hui left us, and another man named Danny came to talk to us. Danny started o
 
 Danny told us that he too was sceptical of B** G**** in the beginning. However, he claimed that he just went for the training sessions and managed to close some deals. He found it okay and continued with it till today.
 
-![image 10]({{ site.url }}/assets/30032020/image10.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image10.jpg">
+</p>
 
 A screen grab of Danny on B** G****’s Instagram account.
 B** G**** only sells two health products — an alkaline water filtration system and a mattress insert that has a lot of “magnets” inside them.
@@ -122,9 +138,13 @@ While doing my own investigation about B** G****, I came across posts about peop
 
 This is very despicable of them. Not only do they want to scam the vulnerable elderly, but they are also willing to scam their own loved ones.
 
-![image 11]({{ site.url }}/assets/30032020/image11.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image11.jpg">
+</p>
 
-![image 12]({{ site.url }}/assets/30032020/image12.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image12.jpg">
+</p>
 
 This is my friend’s account of them forcing her to call her relatives on the spot. Unfortunately, she also thought it was just a simple job interview like me.
 
@@ -132,11 +152,17 @@ After I went home, I was still fuming with rage. Michelle texted me to ask me ho
 
 I told her how I felt and how they could be more upfront with their business when recruiting people. Surprisingly, she was very polite about it. She was receptive to what I said and thanked me too.
 
-![image 13]({{ site.url }}/assets/30032020/image13.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image13.jpg">
+</p>
 
-![image 14]({{ site.url }}/assets/30032020/image14.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image14.jpg">
+</p>
 
-![image 15]({{ site.url }}/assets/30032020/image15.jpg)
+<p>
+  <img height="650" src="{{ site.url }}/assets/30032020/image15.jpg">
+</p>
 
 Michelle was not even aware of the existence of these advertisements. Based on this, I conclude that these adverts must have been posted by lone agents who wanted to recruit more people to join their team.
 
