@@ -7,11 +7,13 @@ I’m sure some of you may be wondering, what’s MLM? I’ll delve into that la
 
 It’s my Semester Break now, and I decided to look for a part-time job. I downloaded the Jobs DB app, and I came across this advert posted on GumTree.
 
-| <img src="{{ site.url }}/assets/30032020/image1.png"> | <img src="{{ site.url }}/assets/30032020/image2.jpg"> |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
-|                                                            |                                                            |
+<p align="centre">
+<img height="250" src="{{ site.url }}/assets/30032020/image1.png"> 
+</p>
 
-![alt-text-1]({{ site.url }}/assets/30032020/image1.png "title-1") ![alt-text-2]({{ site.url }}/assets/30032020/image2.jpg "title-2")
+<p align="centre">
+<img src="{{ site.url }}/assets/30032020/image2.jpg">
+</p>
 
 I thought to myself, “Oh, it looks like a typical admin job and the hours are quite flexible. The pay is quite high, not bad”.
 
