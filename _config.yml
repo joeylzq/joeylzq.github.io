@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Joey Leong
 tagline:          'Aspiring Writer'
-description:      'Personal Blog'
+description:      'Welcome to my Personal Blog!'
 url:              http://joeylzq.com
 
 author:
@@ -19,6 +19,3 @@ paginate:         5
 
 # Custom vars
 version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
