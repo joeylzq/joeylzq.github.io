@@ -7,15 +7,12 @@ permalink:        pretty
 
 # Setup
 title:            Joey Leong
-tagline:          '   Aspiring Writer'
+tagline:          'Aspiring Writer'
 description:      'Welcome to my Personal Blog!'
 url:              http://joeylzq.com
 
 author:
   name:           'Joey Leong'
-  url:            https://twitter.com/mdo
+  url:
 
 paginate:         5
-
-# Custom vars
-version:          2.0.0
