@@ -7,11 +7,11 @@ I’m sure some of you may be wondering, what’s MLM? I’ll delve into that la
 
 It’s my Semester Break now, and I decided to look for a part-time job. I downloaded the Jobs DB app, and I came across this advert posted on GumTree.
 
-<p align="centre">
+<p align="middle">
 <img height="750" src="{{ site.url }}/assets/30032020/image1.png">
 </p>
 
-<p align="centre">
+<p align="middle">
 <img height="750" src="{{ site.url }}/assets/30032020/image2.jpg">
 </p>
 
