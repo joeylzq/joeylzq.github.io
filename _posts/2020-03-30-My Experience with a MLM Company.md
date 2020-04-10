@@ -8,7 +8,7 @@ I’m sure some of you may be wondering, what’s MLM? I’ll delve into that la
 It’s my Semester Break now, and I decided to look for a part-time job. I downloaded the Jobs DB app, and I came across this advert posted on GumTree.
 
 <p align="center">
-  <src="{{ site.url }}/assets/30032020/image1.png">
+  <img src="{{ site.url }}/assets/30032020/image1.png">
 </p>
 
 ![image 2]({{ site.url }}/assets/30032020/image2.jpg)
