@@ -11,6 +11,8 @@ It’s my Semester Break now, and I decided to look for a part-time job. I downl
 | :--------------------------------------------------------: | :--------------------------------------------------------: |
 |                                                            |                                                            |
 
+![alt-text-1]({{ site.url }}/assets/30032020/image1.png "title-1") ![alt-text-2]({{ site.url }}/assets/30032020/image2.jpg "title-2")
+
 I thought to myself, “Oh, it looks like a typical admin job and the hours are quite flexible. The pay is quite high, not bad”.
 
 Thus, I texted the Tyler person with the number posted on the advert. We agreed that I would go down to his office near Bendemeer/Lavender for an interview.
