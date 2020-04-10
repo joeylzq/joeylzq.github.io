@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Joey Leong
-tagline:          ''
-description:      'Welcome to my Personal Blog!'
+title:            Joey Writes
+tagline:          'By Joey Leong'
+description:      'Aspiring Writer'
 url:              http://joeylzq.com
 
 author:
